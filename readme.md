@@ -4,13 +4,13 @@
 
 <img alt="Night Coding" width="320em" src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" align="right"/>
 
-👨‍🌾&nbsp;&nbsp;My name is Oscar Alfredo Castillejo Salazar. \
-🔮 &nbsp;My hobbies are the music and learn new stuff.\
-🚀 &nbsp;I like to always explore the unknow with a little of excitement.\
-🇨🇦 &nbsp;I'm Senior Software Engineer in _Canada_  .\
-😉 &nbsp;If you are looking for my [CV](https://drive.google.com/file/d/1PBxXx206_ckNvdY2I65pvHm_Y3RP6Qoc/view?usp=share_link) for more details about me \
+👨‍🌾&nbsp;&nbsp;My name is **Oscar Alfredo Castillejo Salazar**. \
+🔮 &nbsp;My hobbies are learning new things and music.\
+🚀 &nbsp;I like to explore the unknown always with a little excitement.\
+🇨🇦 &nbsp;I'm a **Senior Software Engineer** in _Canada_  .\
+😉 &nbsp;If you are looking for my [**CV**](https://drive.google.com/file/d/1PBxXx206_ckNvdY2I65pvHm_Y3RP6Qoc/view?usp=share_link) for more details about me \
  📢 &nbsp;Alway open to feedback and suggestions! \
-✉️ &nbsp;If you want to contact me I'm always available at oscar.castillejo.sa@gmail.com!
+✉️ &nbsp;If you want to contact me I'm always available at **oscar.castillejo.sa@gmail.com**!
 
 
 ### 🛠 &nbsp;Tech Stack
