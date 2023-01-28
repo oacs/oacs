@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<img alt="Night Coding" width="320em" src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" align="right"/>
+<img alt="Night Coding" width="280em" src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" align="right"/>
 
 👨‍🌾&nbsp;&nbsp;My name is **Oscar Alfredo Castillejo Salazar**. \
 🔮 &nbsp;My hobbies are learning new things and music.\
