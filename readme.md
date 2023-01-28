@@ -50,7 +50,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/oacs"><img src="https://img.shields.io/badge/-Oscar%20Castillejo%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/oscar-castillejo"><img src="https://img.shields.io/badge/-Oscar%20Castillejo%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:oscar.castillejo.sa@gmail.com"><img src="https://img.shields.io/badge/-oscar.castillejo.sa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/oscarcastillejo"><img src="https://img.shields.io/badge/-@oscarcastillejo_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
