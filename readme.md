@@ -8,7 +8,7 @@
 🔮 &nbsp;My hobbies are learning new things and music.\
 🚀 &nbsp;I like to explore the unknown always with a little excitement.\
 🇨🇦 &nbsp;I'm a **Senior Software Engineer** in _Canada_  .\
-😉 &nbsp;If you are looking for my [**CV**](https://drive.google.com/file/d/1JxE6l2ME7IsEnjBXH_QfoaGqbcdE2TAa/view?usp=share_link) for more details about me \
+😉 &nbsp;If you are looking for my [**CV**](https://github.com/oacs/cv/raw/main/main.pdf) for more details about me \
  📢 &nbsp;Alway open to feedback and suggestions! \
 ✉️ &nbsp;If you want to contact me I'm always available at **oscar.castillejo.sa@gmail.com**!
 
